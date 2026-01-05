@@ -1,8 +1,9 @@
 # USB Device Info
+
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
 **USBDevInfo** is an open-source Android application that lets you inspect USB and input devices connected to your phone or tablet.  
 It provides clear, human-readable information about devices, their capabilities, and how Android sees them.
----
 
 ## Features
 
@@ -39,7 +40,6 @@ It provides clear, human-readable information about devices, their capabilities,
 - No dependency on external websites at runtime
 - Optional manual update from settings
 
----
 
 ## Privacy
 
@@ -49,7 +49,6 @@ USBDevInfo:
 - Works fully offline (except optional database updates)
 - Stores history locally on your device only
 
----
 
 ## Typical use cases
 
@@ -59,7 +58,6 @@ USBDevInfo:
 - Verify input device behavior
 - Quickly check VID/PID without a computer
 
----
 
 ## Requirements
 
@@ -69,11 +67,9 @@ USBDevInfo:
   - Serial number
   - Raw USB descriptors
 
----
 
 ## License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
----
 
 ## Contributions
 
@@ -86,7 +82,6 @@ If you:
 
 Feel free to open an issue or submit a pull request.
 
----
 
 ## Credits
 
